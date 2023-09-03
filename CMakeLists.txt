@@ -1,0 +1,21 @@
+cmake_minimum_required(VERSION 3.5)
+project(CONVINCE)
+
+set(CMAKE_CXX_STANDARD 14)
+if(APPLE)
+    set(CMAKE_PREFIX_PATH "/usr/local/opt/flex")
+endif()
+
+
+INCLUDE_DIRECTORIES(${CMAKE_CURRENT_BINARY_DIR})
+
+INCLUDE_DIRECTORIES(${CMAKE_CURRENT_SOURCE_DIR})
+INCLUDE_DIRECTORIES(${CMAKE_CURRENT_SOURCE_DIR}/include)
+if(UNIX AND NOT APPLE)
+    LINK_DIRECTORIES(${CMAKE_CURRENT_SOURCE_DIR}/lib)
+endif()
+INCLUDE_DIRECTORIES(/usr/local/include)
+LINK_DIRECTORIES(/usr/local/lib)
+
+add_subdirectory(lib)
+add_subdirectory(tools)

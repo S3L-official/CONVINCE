@@ -1,0 +1,52 @@
+./build/tools/Main/convince ./benchmarks B1+Comp.cl 2 main ni 0 >   B1+Comp2.txt
+./build/tools/Main/convince ./benchmarks B1+Para.cl 2 main ni 0 >   B1+Para2.txt
+./build/tools/Main/convince ./benchmarks B1+UMA.cl  2 main ni 0 >    B1+UMA2.txt
+./build/tools/Main/convince ./benchmarks B2+Comp.cl 2 main prob 0 > B2+Comp2.txt
+./build/tools/Main/convince ./benchmarks B2+Para.cl 2 main prob 0 > B2+Para2.txt
+./build/tools/Main/convince ./benchmarks B2+UMA.cl  2 main prob 0 >  B2+UMA2.txt
+./build/tools/Main/convince ./benchmarks B3+Comp.cl 2 main prob 0 > B3+Comp2.txt
+./build/tools/Main/convince ./benchmarks B3+Para.cl 2 main prob 0 > B3+Para2.txt
+./build/tools/Main/convince ./benchmarks B3+UMA.cl  2 main prob 0 >  B3+UMA2.txt
+./build/tools/Main/convince ./benchmarks B4+Comp.cl 2 main prob 0 > B4+Comp2.txt
+./build/tools/Main/convince ./benchmarks B4+Para.cl 2 main prob 0 > B4+Para2.txt
+./build/tools/Main/convince ./benchmarks B4+UMA.cl  2 main prob 0 >  B4+UMA2.txt
+
+./build/tools/Main/convince ./benchmarks B1+Comp.cl 3 main ni 0 >   B1+Comp3.txt
+./build/tools/Main/convince ./benchmarks B1+Para.cl 3 main ni 0 >   B1+Para3.txt
+./build/tools/Main/convince ./benchmarks B1+UMA.cl  3 main ni 0 >    B1+UMA3.txt
+./build/tools/Main/convince ./benchmarks B2+Comp.cl 3 main prob 0 > B2+Comp3.txt
+./build/tools/Main/convince ./benchmarks B2+Para.cl 3 main prob 0 > B2+Para3.txt
+./build/tools/Main/convince ./benchmarks B2+UMA.cl  3 main prob 0 >  B2+UMA3.txt
+./build/tools/Main/convince ./benchmarks B3+Comp.cl 3 main prob 0 > B3+Comp3.txt
+./build/tools/Main/convince ./benchmarks B3+Para.cl 3 main prob 0 > B3+Para3.txt
+./build/tools/Main/convince ./benchmarks B3+UMA.cl  3 main prob 0 >  B3+UMA3.txt
+./build/tools/Main/convince ./benchmarks B4+Comp.cl 3 main prob 0 > B4+Comp3.txt
+./build/tools/Main/convince ./benchmarks B4+Para.cl 3 main prob 0 > B4+Para3.txt
+./build/tools/Main/convince ./benchmarks B4+UMA.cl  3 main prob 0 >  B4+UMA3.txt
+
+./build/tools/Main/convince ./benchmarks B1+Comp.cl 4 main ni 0 >   B1+Comp4.txt
+./build/tools/Main/convince ./benchmarks B1+Para.cl 4 main ni 0 >   B1+Para4.txt
+./build/tools/Main/convince ./benchmarks B1+UMA.cl  4 main ni 0 >    B1+UMA4.txt
+./build/tools/Main/convince ./benchmarks B2+Comp.cl 4 main prob 0 > B2+Comp4.txt
+./build/tools/Main/convince ./benchmarks B2+Para.cl 4 main prob 0 > B2+Para4.txt
+./build/tools/Main/convince ./benchmarks B2+UMA.cl  4 main prob 0 >  B2+UMA4.txt
+./build/tools/Main/convince ./benchmarks B3+Comp.cl 4 main prob 0 > B3+Comp4.txt
+./build/tools/Main/convince ./benchmarks B3+Para.cl 4 main prob 0 > B3+Para4.txt
+./build/tools/Main/convince ./benchmarks B3+UMA.cl  4 main prob 0 >  B3+UMA4.txt
+./build/tools/Main/convince ./benchmarks B4+Comp.cl 4 main prob 0 > B4+Comp4.txt
+./build/tools/Main/convince ./benchmarks B4+Para.cl 4 main prob 0 > B4+Para4.txt
+./build/tools/Main/convince ./benchmarks B4+UMA.cl  4 main prob 0 >  B4+UMA4.txt
+
+./build/tools/Main/convince ./benchmarks B1+Comp.cl 5 main ni 0 >   B1+Comp5.txt
+./build/tools/Main/convince ./benchmarks B1+Para.cl 5 main ni 0 >   B1+Para5.txt
+./build/tools/Main/convince ./benchmarks B1+UMA.cl  5 main ni 0 >    B1+UMA5.txt
+./build/tools/Main/convince ./benchmarks B2+Comp.cl 5 main prob 0 > B2+Comp5.txt
+./build/tools/Main/convince ./benchmarks B2+Para.cl 5 main prob 0 > B2+Para5.txt
+./build/tools/Main/convince ./benchmarks B2+UMA.cl  5 main prob 0 >  B2+UMA5.txt
+./build/tools/Main/convince ./benchmarks B3+Comp.cl 5 main prob 0 > B3+Comp5.txt
+./build/tools/Main/convince ./benchmarks B3+Para.cl 5 main prob 0 > B3+Para5.txt
+./build/tools/Main/convince ./benchmarks B3+UMA.cl  5 main prob 0 >  B3+UMA5.txt
+./build/tools/Main/convince ./benchmarks B4+Comp.cl 5 main prob 0 > B4+Comp5.txt
+./build/tools/Main/convince ./benchmarks B4+Para.cl 5 main prob 0 > B4+Para5.txt
+./build/tools/Main/convince ./benchmarks B4+UMA.cl  5 main prob 0 >  B4+UMA5.txt
+
